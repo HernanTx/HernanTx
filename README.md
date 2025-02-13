@@ -1,10 +1,10 @@
 ## Buenas👋
 
-Soy Hernán, entusiasta de la tecnologia, la computacion y gran interes en todo lo relacionado a su infraestructura 📡
+Soy Hernán, entusiasta de la tecnología, la computación y gran interés en todo lo relacionado a su infraestructura 📡
 
-## Sobre mi 🏍️
+## Sobre mí 🏍️
 
-- 🖥️ Estudiante de Ing en sistemas en la UTN.
-- 🌱 Aprendiendo sobre tecnologias Cloud, Virtualizacion, Lenguajes de programacion, entre otras.
+- 🖥️ Estudiante de Ing. en sistemas en la UTN.
+- 🌱 Aprendiendo sobre tecnologías Cloud, Virtualización, Lenguajes de Programación, entre otras.
 - 🤔 Siempre buscando mejorar y aprendiendo nuevas habilidades.
-- 📫 Pueden contactarme via Email ó LinkedIn.
+- 📫 Pueden contactarme vía Email o LinkedIn.
